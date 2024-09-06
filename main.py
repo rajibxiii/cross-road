@@ -30,7 +30,7 @@ while game_is_on:
         if player.is_at_finish_line():
             player.go_to_start()
             cars.level_up()
-    
+    # create sccores
 
 
 screen.exitonclick()
